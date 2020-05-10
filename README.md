@@ -1,3 +1,3 @@
 pyAim
 
-This is aimbot for humanbenchmark.com aim test
+This is aimbot for [humanbenchmark.com](https://humanbenchmark.com) aim test
